@@ -1,2 +1,1 @@
-"# AiBD" 
-Laboratorium Analizy i Bazy Danych
+<b>Laboratorium Analizy i Bazy Danych
